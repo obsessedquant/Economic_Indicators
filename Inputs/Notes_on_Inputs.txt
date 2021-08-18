@@ -1,0 +1,6 @@
+
+TIPS data using 'Daily Treasury Real Yield Curve Rates' collected from:
+https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=realyieldAll
+
+Treasury Rates data using 'Daily Treasury Yield Curve Rates' collected from:
+https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield
