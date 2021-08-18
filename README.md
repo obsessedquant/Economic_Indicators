@@ -15,3 +15,4 @@ Using the following statistical methods, we can uncover the most important econo
 This data will be used to compare to asset classes such as bonds, stocks, commodities and cryptos, as well as style factors such as short float, beta, and market caps.
 
 ![View](Images/Real_Rates_graph.png)
+![View](Images/Yield_Curve_graph.png)
