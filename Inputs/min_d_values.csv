@@ -1,4 +1,4 @@
 ,ticker,min_d
-0,NetLiquidity,0.45
-1,BTC_price,0.25
-2,SP500_price,0.35
+0,NetLiquidity,0.9
+1,BTC_price,0.45
+2,SP500_price,0.6
